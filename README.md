@@ -1,1 +1,1 @@
-# spg-3d-designer
+# 3D Room Designer
